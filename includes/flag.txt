@@ -1,5 +1,0 @@
-go to this website and find flag website link : http://saturn.picoctf.net:59300/
-
-
-
-final flag is : picoCTF{1nclu51v17y_1of2_f7w_2of2_6edef411}
