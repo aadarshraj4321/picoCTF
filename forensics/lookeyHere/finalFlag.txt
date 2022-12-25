@@ -1,0 +1,12 @@
+
+
+
+find the flag with grep command :
+
+    grep -oE 'picoCTF{.*?}' anthem.flag.txt --color=none
+
+
+
+
+
+final flag is : picoCTF{gr3p_15_@w3s0m3_58f5c024}
