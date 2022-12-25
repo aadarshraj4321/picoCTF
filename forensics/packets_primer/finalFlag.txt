@@ -1,0 +1,9 @@
+picoCTF{p4ck37_5h4rk_b9d53765}
+
+
+
+
+
+second way to find if you don't want to find with wireshark is
+
+strings network-dump.flag.pcap | grep 'p i c o' | tr -d " "
