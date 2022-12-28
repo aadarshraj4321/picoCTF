@@ -1,0 +1,6 @@
+
+
+find flag with this command : echo "202752" | nc saturn.picoctf.net 52279 | grep -oE "picoCTF{.*?}"
+
+
+final flag is : picoCTF{mm15_f7w!}
