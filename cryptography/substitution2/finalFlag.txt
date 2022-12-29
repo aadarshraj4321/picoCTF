@@ -1,0 +1,9 @@
+
+
+site  : https://www.quipqiup.com/
+picoCTF{n6r4m_4n41y515_15_73d10u5_702f03fc}
+step 1 : pico c t f n r m ny duff c
+step 2 : picoCTF{n r m ny duff c}
+step 3 : picoCTF{{P6C4U_4P41L515_15_73R10B5_702A03AT}
+// replace 
+step 4 : picoCTF{n6r4m_4n41y515_15_73d10u5_702f03fc}
