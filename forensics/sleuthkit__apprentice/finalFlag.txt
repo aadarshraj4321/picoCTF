@@ -1,0 +1,8 @@
+
+* Download this disk image file and analyze in autopsy software
+link foor image disk file : wget https://artifacts.picoctf.net/c/331/disk.flag.img.gz
+
+
+picoCTF{by73_5urf3r_adac6cb4}
+
+
